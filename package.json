@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "Routing server-side requests using ExpressJS",
   "main": "server.js",
-  "author": "Medhir Bhargava & Christina Gardner-McCune",
+  "author": "Medhir Bhargava & Christina Gardner-McCune | MOdified by Kyle Dagnan",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",

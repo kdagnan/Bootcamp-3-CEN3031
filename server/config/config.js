@@ -4,10 +4,10 @@
 
 module.exports = {
   db: {
-    uri: ''//place the URI of your mongo database here.
+    uri: 'mongodb+srv://kdagnan:Tw3RJrLKuH9eJgq0@uflistingkdagnan-w3fsm.mongodb.net/UFListingKDagnan', //place the URI of your mongo database here.
   }, 
   openCage: {
-    key: '' //place your openCage public key here - Sign-up for a free key https://opencagedata.com/
+    key: 'b7c23c4c9fd74c4eb84efb149e99c376' //place your openCage public key here - Sign-up for a free key https://opencagedata.com/
   },
   port: 8080
 };
