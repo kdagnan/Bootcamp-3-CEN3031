@@ -53,7 +53,7 @@ module.exports.init = function() {
       If no path segments are passed, path.resolve() will return the absolute path of the current working directory.
    */
    //res.sendFile(path.resolve(...));
-   res.status(301).redirect("/");
+   res.sendFile(path.resolve("client/index.html"));
   });
   
   return app;
